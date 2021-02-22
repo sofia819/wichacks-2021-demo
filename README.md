@@ -1,3 +1,3 @@
-# cra-template-simple
+# Intro to React
 
-This is a simple template for [Create React App](https://github.com/facebook/create-react-app).
+### This repo stores the project demo'd in the [WiCHacks - Intro to React](https://docs.google.com/presentation/d/1bZZG9nhFJdqFqCuF-Fzr84Tv-dtuQV1yzcW6Cw95Shs/edit?usp=sharing) presentation.
