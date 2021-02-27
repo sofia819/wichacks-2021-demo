@@ -38,9 +38,10 @@ class App extends Component {
   render = () => {
     return (
       <div className={this.state.isDarkTheme ? 'dark' : 'light'}>
+        <h2>WiCHacks</h2>
         <button onClick={this.handleThemeChange}>Change Theme</button>
         {this.state.pets.map((pet) => (
-          <InfoCard name={pet.petName} image={pet.petImage} />
+          <InfoCard name={pet?.petName} image={pet?.petImage} />
         ))}
       </div>
     );
